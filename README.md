@@ -2,4 +2,5 @@
 
 ### A Complete Java Primer
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book should be a comprehensive reference manual for learning Java. It should also appeal to those who already know the language and want to brush upon some topics.
+
