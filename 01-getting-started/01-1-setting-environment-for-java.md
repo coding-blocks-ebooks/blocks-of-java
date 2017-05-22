@@ -1,4 +1,4 @@
-## Setting Environment for Java
+## 1.1 Setting Environment for Java
 
 Download [Java](https://java.com/en/download/)
 
@@ -22,4 +22,3 @@ However, using an IDE (Integrated development environment) provides a sophistica
 + [Eclipse](http://www.eclipse.org/downloads/)
 
 These are the famous ones.
-
