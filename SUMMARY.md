@@ -10,3 +10,4 @@
 * [3.Input and Output](03-input-output/intro.md)
   * [3.1 Input](03-input-output/03-1-input.md)
   * [3.2 Output](03-input-output/03-2-output.md)
+*[4. Arrays](04-arrays/intro.md)

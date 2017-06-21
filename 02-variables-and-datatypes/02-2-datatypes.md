@@ -24,4 +24,4 @@ Primitive datatypes are stored in the stack.
 
 Everything other than above mentioned types are non primitive data types. Some of them are String, Array, etc. 
 
-The reference of a non primitive data type is stored in the stack and memory is allocated in heap.
+The reference of a non primitive data type is stored in the stack and memory is allocated in heap. We'll discuss more about non-primitives later.
