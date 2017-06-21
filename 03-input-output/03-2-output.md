@@ -17,7 +17,7 @@ public class OutputTest {
 
     public static void main(String[] args) {
         int x = 42;
-        System.out.println(x); // Prints 42 to the console. 
+        System.out.println(x); // This prints 42 to the console. 
     }
 }
 
