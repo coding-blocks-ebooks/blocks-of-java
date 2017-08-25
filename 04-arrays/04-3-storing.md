@@ -17,4 +17,23 @@ We can store values in the array by using a similar syntax as before.
     
     System.out.println(arr[9]) // 86
     System.out.println(arr[2]) // -5
+    
+```
+
+Lets take another example
+
+```java
+    char[] charArr = new char[4];
+
+    /*
+    At this point every arr position holds '\0' which is the default value of char.
+    */
+    
+    charArr[0] = 'j';
+    charArr[1] = 'a';
+    charArr[2] = 'v';
+    charArr[3] = 'a';
+    
+    System.out.println(charArr[2]) // 'v'
+    
 ```
