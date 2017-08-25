@@ -1,4 +1,4 @@
-## Accessing the values
+## 5.2 Accessing the values
 
 ```java
 int[] arr = new int[10];

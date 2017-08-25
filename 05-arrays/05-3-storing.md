@@ -1,4 +1,4 @@
-## Storing values
+## 5.3 Storing values
 
 We can store values in the array by using a similar syntax as before.
 

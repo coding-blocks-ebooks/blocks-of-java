@@ -1,4 +1,4 @@
-## Declaration of Arrays
+## 5.1 Declaration of Arrays
 
 ```java   
    int[] arr = new int[10];
