@@ -11,4 +11,6 @@
   * [3.1 Input](03-input-output/03-1-input.md)
   * [3.2 Output](03-input-output/03-2-output.md)
 * [4. Arrays](04-arrays/intro.md)
-  * [4.1 Using Arrays](04-arrays/04-1-using-arrays.md)
+  * [4.1 Declaration](04-arrays/04-1-declaration.md)
+  * [4.2 Accessing](04-arrays/04-2-accessing.md)
+  * [4.3 Storing](04-arrays/04-3-storing.md)
