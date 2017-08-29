@@ -34,7 +34,18 @@ We can have a ladder of If-else statements.
 
 ```java
     
-
+    
+    if(condition 1){
+        // Task 1
+    } else if(condition 2){
+        // Task 2
+    }else if(condition 3){
+        // Task 3
+    }else if(condition 4){
+        // Task 4   
+    }else{
+        // Task 5
+    }
 ```
 
 
